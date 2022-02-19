@@ -26,7 +26,7 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- TreeHack 2022 Custom sha256 core -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
